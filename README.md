@@ -1,3 +1,3 @@
 # anjurep
-to learn about git operation
-git is a version contril system
+To learn about git operation.
+Git is a version control system
